@@ -1,0 +1,9 @@
+
+# For PCBs designed using KiCAD: http://www.kicad-pcb.org/
+
+# Temporary files
+KiCad/*.000
+KiCad/*.bak
+KiCad/*.bck
+KiCad/*.kicad_pcb-bak
+/.project

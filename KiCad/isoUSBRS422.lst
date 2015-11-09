@@ -1,0 +1,132 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 28.08.2015 23:43:40
+#Cmp ( order = Reference )
+| C101       47 pF       
+| C102       47 pF       
+| C103       100 nF      
+| C104       100 nF      
+| C105       4.7 uF      
+| C106       10 nF       
+| C107       4.7 uF      
+| C108       100 nF      
+| C109       100 nF      
+| C110       100 nF      
+| C111       100 nF      
+| C112       4.7 uF      
+| C113       10 nF       
+| C114       10 uF       
+| C115       4.7 uF      
+| C116       100 nF      
+| C117       10 nF       
+| C118       100 nF      
+| C119       10 uF       
+| C120       100 nF      
+| C121       100 nF      
+| C122       4.7 uF      
+| C123       4.7 uF      
+| C124       100 nF      
+| C125       100 nF      
+| C126       4.7 uF      
+| D101       LED_PWR     
+| D102       LED_TX      
+| D103       LED_RX      
+| D104       PSM712LFT7  
+| D105       PSM712LFT7  
+| FB101      MI0805K601R-10
+| J101       USB         
+| J102       KLE3MM5     
+| J103       KLE3MM5     
+| J104       KLE3MM5     
+| R101       27          
+| R102       27          
+| R103       330         
+| R104       270         
+| R105       270         
+| R106       10k         
+| R107       10k         
+| R108       10k         
+| R109       10k         
+| R110       10k         
+| R111       10k         
+| R112       10k         
+| R113       0           
+| R114       0           
+| R115       121         
+| R116       0           
+| R117       0           
+| R118       0           
+| R119       0           
+| R120       10k         
+| TH101      MF-MSMF050-2
+| U101       FT230X      
+| U102       SN74LVC2T45 
+| U103       SN74LVC2T45 
+| U104       ADM2682E    
+| U105       SN74LVC2T45 
+#End Cmp
+
+#Cmp ( order = Value )
+| 4.7 uF       C105      
+| 4.7 uF       C107      
+| 4.7 uF       C112      
+| 4.7 uF       C115      
+| 4.7 uF       C122      
+| 4.7 uF       C123      
+| 4.7 uF       C126      
+| 47 pF        C101      
+| 47 pF        C102      
+| 100 nF       C103      
+| 100 nF       C104      
+| 10 nF        C106      
+| 100 nF       C108      
+| 100 nF       C109      
+| 100 nF       C110      
+| 100 nF       C111      
+| 10 nF        C113      
+| 100 nF       C116      
+| 10 nF        C117      
+| 100 nF       C118      
+| 100 nF       C120      
+| 100 nF       C121      
+| 100 nF       C124      
+| 100 nF       C125      
+| 10 uF        C114      
+| 10 uF        C119      
+| LED_PWR      D101      
+| LED_TX       D102      
+| LED_RX       D103      
+| PSM712LFT7   D104      
+| PSM712LFT7   D105      
+| MI0805K601R-10 FB101     
+| KLE3MM5      J102      
+| KLE3MM5      J103      
+| KLE3MM5      J104      
+| USB          J101      
+| 0            R113      
+| 0            R114      
+| 0            R116      
+| 0            R117      
+| 0            R118      
+| 0            R119      
+| 27           R101      
+| 27           R102      
+| 121          R115      
+| 270          R104      
+| 270          R105      
+| 330          R103      
+| 10k          R106      
+| 10k          R107      
+| 10k          R108      
+| 10k          R109      
+| 10k          R110      
+| 10k          R111      
+| 10k          R112      
+| 10k          R120      
+| MF-MSMF050-2 TH101     
+| SN74LVC2T45  U102      
+| SN74LVC2T45  U103      
+| SN74LVC2T45  U105      
+| ADM2682E     U104      
+| FT230X       U101      
+#End Cmp
+
+#End List

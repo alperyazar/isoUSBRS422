@@ -1,0 +1,132 @@
+eeschema (2013-07-07 BZR 4022)-stable  >> Creation date: 11.05.2015 22:11:10
+#Cmp ( order = Reference )
+| C101       47 pF       ; SM0603      
+| C102       47 pF       ; SM0603      
+| C103       100 nF      ; SM0603      
+| C104       100 nF      ; SM0603      
+| C105       4.7 uF      ; SM0805      
+| C106       10 nF       ; SM0603      
+| C107       4.7 uF      ; SM0805      
+| C108       100 nF      ; SM0603      
+| C109       100 nF      ; SM0603      
+| C110       100 nF      ; SM0603      
+| C111       100 nF      ; SM0603      
+| C112       4.7 uF      ; SM0805      
+| C113       10 nF       ; SM0603      
+| C114       10 uF       ; SM1206      
+| C115       4.7 uF      ; SM0805      
+| C116       100 nF      ; SM0603      
+| C117       10 nF       ; SM0603      
+| C118       100 nF      ; SM0603      
+| C119       10 uF       ; SM1206      
+| C120       100 nF      ; SM0603      
+| C121       100 nF      ; SM0603      
+| C122       4.7 uF      ; SM0805      
+| C123       4.7 uF      ; SM0805      
+| C124       100 nF      ; SM0603      
+| C125       100 nF      ; SM0603      
+| C126       4.7 uF      ; SM0805      
+| D101       LED_PWR     ; CR_10_LED   
+| D102       LED_TX      ; CR_10_LED   
+| D103       LED_RX      ; CR_10_LED   
+| D104       PSM712LFT7  ; SOT23       
+| D105       PSM712LFT7  ; SOT23       
+| FB101      MI0805K601R-10; SM0805      
+| J101       USB         ; USB_B       
+| J102       KLE3MM5     ; KLE3mm5     
+| J103       KLE3MM5     ; KLE3mm5     
+| J104       KLE3MM5     ; KLE3mm5     
+| R101       27          ; SM0603      
+| R102       27          ; SM0603      
+| R103       330         ; SM0603      
+| R104       270         ; SM0603      
+| R105       270         ; SM0603      
+| R106       10k         ; SM0603      
+| R107       10k         ; SM0603      
+| R108       10k         ; SM0603      
+| R109       10k         ; SM0603      
+| R110       10k         ; SM0603      
+| R111       10k         ; SM0603      
+| R112       10k         ; SM0603      
+| R113       0           ; SM0603      
+| R114       0           ; SM0603      
+| R115       121         ; SM0603      
+| R116       0           ; SM0603      
+| R117       0           ; SM0603      
+| R118       0           ; SM0603      
+| R119       0           ; SM0603      
+| R120       10k         ; SM0603      
+| TH101      MF-MSMF050-2; MS_MSMF_Style_1
+| U101       FT230X      ; SSOP16      
+| U102       SN74LVC2T45 ; R_PDSO_G8   
+| U103       SN74LVC2T45 ; R_PDSO_G8   
+| U104       ADM2682E    ; SO16W       
+| U105       SN74LVC2T45 ; R_PDSO_G8   
+#End Cmp
+
+#Cmp ( order = Value )
+| 4.7 uF       C105      ; SM0805      
+| 4.7 uF       C107      ; SM0805      
+| 4.7 uF       C112      ; SM0805      
+| 4.7 uF       C115      ; SM0805      
+| 4.7 uF       C122      ; SM0805      
+| 4.7 uF       C123      ; SM0805      
+| 4.7 uF       C126      ; SM0805      
+| 47 pF        C101      ; SM0603      
+| 47 pF        C102      ; SM0603      
+| 100 nF       C103      ; SM0603      
+| 100 nF       C104      ; SM0603      
+| 10 nF        C106      ; SM0603      
+| 100 nF       C108      ; SM0603      
+| 100 nF       C109      ; SM0603      
+| 100 nF       C110      ; SM0603      
+| 100 nF       C111      ; SM0603      
+| 10 nF        C113      ; SM0603      
+| 100 nF       C116      ; SM0603      
+| 10 nF        C117      ; SM0603      
+| 100 nF       C118      ; SM0603      
+| 100 nF       C120      ; SM0603      
+| 100 nF       C121      ; SM0603      
+| 100 nF       C124      ; SM0603      
+| 100 nF       C125      ; SM0603      
+| 10 uF        C114      ; SM1206      
+| 10 uF        C119      ; SM1206      
+| LED_PWR      D101      ; CR_10_LED   
+| LED_TX       D102      ; CR_10_LED   
+| LED_RX       D103      ; CR_10_LED   
+| PSM712LFT7   D104      ; SOT23       
+| PSM712LFT7   D105      ; SOT23       
+| MI0805K601R-10 FB101     ; SM0805      
+| KLE3MM5      J102      ; KLE3mm5     
+| KLE3MM5      J103      ; KLE3mm5     
+| KLE3MM5      J104      ; KLE3mm5     
+| USB          J101      ; USB_B       
+| 0            R113      ; SM0603      
+| 0            R114      ; SM0603      
+| 0            R116      ; SM0603      
+| 0            R117      ; SM0603      
+| 0            R118      ; SM0603      
+| 0            R119      ; SM0603      
+| 27           R101      ; SM0603      
+| 27           R102      ; SM0603      
+| 121          R115      ; SM0603      
+| 270          R104      ; SM0603      
+| 270          R105      ; SM0603      
+| 330          R103      ; SM0603      
+| 10k          R106      ; SM0603      
+| 10k          R107      ; SM0603      
+| 10k          R108      ; SM0603      
+| 10k          R109      ; SM0603      
+| 10k          R110      ; SM0603      
+| 10k          R111      ; SM0603      
+| 10k          R112      ; SM0603      
+| 10k          R120      ; SM0603      
+| MF-MSMF050-2 TH101     ; MS_MSMF_Style_1
+| SN74LVC2T45  U102      ; R_PDSO_G8   
+| SN74LVC2T45  U103      ; R_PDSO_G8   
+| SN74LVC2T45  U105      ; R_PDSO_G8   
+| ADM2682E     U104      ; SO16W       
+| FT230X       U101      ; SSOP16      
+#End Cmp
+
+#End List
