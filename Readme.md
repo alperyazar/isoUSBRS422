@@ -148,11 +148,11 @@ isoUSBRS422 project is also shown up on some websites.
 
 ### EEVblog
 
-[![isoUSBRS422 on EEVblog #833 - Mailbag](http://img.youtube.com/vi/dXbbJOH59oo/0.jpg)](http://www.youtube.com/watch?v=dXbbJOH59oo "isoUSBRS422 on EEVblog #833 - Mailbag")
+[![isoUSBRS422 on EEVblog #833 - Mailbag](http://img.youtube.com/vi/dXbbJOH59oo/0.jpg)](https://www.youtube.com/watch?time_continue=822&v=dXbbJOH59oo "isoUSBRS422 on EEVblog #833 - Mailbag")
 
 *Click on the image to watch the video*
 
-isoUSBRS422v1 board is shown up in [EEVblog #833 - Mailbag](https://www.youtube.com/watch?v=dXbbJOH59oo) episode between **13:42 - 18:26**.
+isoUSBRS422v1 board is shown up in [EEVblog #833 - Mailbag](https://www.youtube.com/watch?time_continue=822&v=dXbbJOH59oo) episode between **13:42 - 18:26**.
 
 ## Folder Structure
 
