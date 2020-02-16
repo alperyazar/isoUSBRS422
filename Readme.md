@@ -8,7 +8,7 @@ Links:
 | Known Issues | [https://github.com/alperyazar/isoUSBRS422/issues](https://github.com/alperyazar/isoUSBRS422/issues)
 | Photo Gallery | [https://www.flickr.com/photos/134583834@N07/sets/72157658466808770/](https://www.flickr.com/photos/134583834@N07/sets/72157658466808770/) |
 | Hackaday.io | [https://hackaday.io/project/3943-isousbrs422](https://hackaday.io/project/3943-isousbrs422) |
-| Project Page on My Website | [https://www.ayazar.com/project/isousbrs422](https://www.ayazar.com/project/isousbrs422) |
+| Project Page on My Website (may contain additional materials) | [https://www.ayazar.com/project/isousbrs422](https://www.ayazar.com/project/isousbrs422) |
 
 > :information_source: isoUSBRS422v1 is on **EEVblog Mailbag** and **Dangerous Prototypes.** See [On The Web](#on-the-web) section at the bottom for details.
 
