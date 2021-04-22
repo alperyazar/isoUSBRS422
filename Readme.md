@@ -8,7 +8,7 @@ Links:
 | Known Issues | [https://github.com/alperyazar/isoUSBRS422/issues](https://github.com/alperyazar/isoUSBRS422/issues)
 | Photo Gallery | [https://www.flickr.com/photos/134583834@N07/sets/72157658466808770/](https://www.flickr.com/photos/134583834@N07/sets/72157658466808770/) |
 | Hackaday.io | [https://hackaday.io/project/3943-isousbrs422](https://hackaday.io/project/3943-isousbrs422) |
-| Project Page on My Website (may contain additional materials) | [https://www.alperyazar.com/project/isousbrs422/](https://www.alperyazar.com/project/isousbrs422/) |
+| Project Page on My Website (may contain additional materials) | [https://www.ayazar.com/projects/isousbrs422.html](https://www.ayazar.com/projects/isousbrs422.html) |
 
 > :information_source: isoUSBRS422v1 is on **EEVblog Mailbag** and **Dangerous Prototypes.** See [On The Web](#on-the-web) section at the bottom for details.
 
@@ -169,7 +169,7 @@ isoUSBRS422v1 board is shown up in [EEVblog #833 - Mailbag](https://www.youtube.
 
 * `KiCad` Contains KiCad project files. My KiCad version is (2013-07-07 BZR 4022)-stable. You should able to open project files and edit according to your needs (please consider license).
 
-* `PCB` Contains ZofzPCB (see: [https://www.alperyazar.com/nb/r/zofzpcb](https://www.alperyazar.com/nb/r/zofzpcb)) rendered board file and some computer generated images of PCB.
+* `PCB` Contains ZofzPCB (see: [https://www.ayazar.com/log/2014/12/zofzpcb.html](https://www.ayazar.com/log/2014/12/zofzpcb.html)) rendered board file and some computer generated images of PCB.
 
 * `Schematic` Contains PDF of schematic.
 
